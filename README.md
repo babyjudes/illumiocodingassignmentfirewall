@@ -22,3 +22,6 @@ If I had more time I would've been able to write the limiter for the IP protocol
 
 # Team
 I would like to join the data team.
+
+# Extra
+No matter what happens, this was an extremely helpful project that you had me work on. I've employed use of these skills separately before in class projects, but to be able to combine them all into one was a challenge that I really enjoyed having. So thank you for giving me the opportunity to code for you and I hope I was able to provide an interesting was to solve this problem!
